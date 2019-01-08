@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textes de Nicolas Moisson</title>
+    <link>https://nicolasmoisson.fr/ecrits</link>
+    <description>Critiques et réflexions, principalement sur le jeu vidéo, mais pas que. Nouvelles et histoires courtes aussi.</description>
+    <language>fr</language>
+    <webMaster>nicolas.moisson@protonmail.com (Nicolas Moisson)</webMaster>
+    <image>
+      <title>Textes de Nicolas Moisson</title>
+      <url>https://nicolasmoisson.fr/img/ego/maratz.jpg</url>
+      <link>https://nicolasmoisson.fr/ecrits</link>
+      <description>Site personnel de Nicolas Moisson aka Maratz</description>
+      <width>80</width>
+      <height>80</height>
+    </image>
+    <pubDate>Thu, 20 Sep 2018 12:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 10:00:00 GMT</lastBuildDate>
+    <atom:link href="https://nicolasmoisson.fr/rss_ecrits.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Super Hexagon</title>
+      <link>https://nicolasmoisson.fr/textes/superhexagon</link>
+      <description>Une leçon de jeu, de vie et de haut en 6 variations et 3 morceaux.</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Mon, 01 Oct 2018 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/superhexagon</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Animal Crossing: New Leaf</title>
+      <link>https://nicolasmoisson.fr/textes/animalcrossingnewleaf</link>
+      <description>6 499 800 clochettes à rembourser, et moi, et moi, et moi...</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Mon, 01 Oct 2018 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/animalcrossingnewleaf</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Sidonia no Kishi 2</title>
+      <link>https://nicolasmoisson.fr/textes/sidonia_no_kishi_2</link>
+      <description>La bataille pour la planète Tanikaze est quasi-naze.</description>
+      <category>Animation</category>
+      <pubDate>Fri, 21 Sep 2018 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/sidonia_no_kishi_2</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Ping Pong the Animation</title>
+      <link>https://nicolasmoisson.fr/textes/pingpong</link>
+      <description>Sing a song</description>
+      <category>Animation</category>
+      <pubDate>Fri, 21 Sep 2018 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/pingpong</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Anohana</title>
+      <link>https://nicolasmoisson.fr/textes/anohana</link>
+      <description>Lisez Euripide plutôt</description>
+      <category>Animation</category>
+      <pubDate>Fri, 21 Sep 2018 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/anohana</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>À malin, malin et demi</title>
+      <link>https://nicolasmoisson.fr/textes/malin_et_demi</link>
+      <description>Une histoire courte d'anticipation</description>
+      <category>Fiction</category>
+      <pubDate>Sat, 21 Jul 2018 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/malin_et_demi</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Cycle(s)</title>
+      <link>https://nicolasmoisson.fr/textes/cycles</link>
+      <description>Une histoire courte dans l'univers de World of Goo.</description>
+      <category>Fiction</category>
+      <pubDate>Fri, 20 Jul 2018 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/cycles</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Alien: Covenant</title>
+      <link>https://nicolasmoisson.fr/textes/aliencovenant</link>
+      <description>“The dignity of movement of an iceberg is due to only one-eighth of it being above water.” — Hemingway</description>
+      <category>Critique cinéma</category>
+      <pubDate>Sun, 17 Jun 2018 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/aliencovenant</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Slave of God</title>
+      <link>https://nicolasmoisson.fr/textes/slaveofgod</link>
+      <description>Slave of God simule l’ivresse sans la gueule de bois, l’amour sans la rupture.</description>
+      <category>Critique JV</category>
+      <pubDate>Sat, 03 Dec 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/slaveofgod</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Sandstorm</title>
+      <link>https://nicolasmoisson.fr/textes/sandstorm</link>
+      <description>Le désert aride de Sandstorm vaut bien une heure de peine.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 02 Dec 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/sandstorm</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Super Mario Galaxy</title>
+      <link>https://nicolasmoisson.fr/textes/supermariogalaxy</link>
+      <description>Super Mario Galaxy est une ligne en pointillés qui n’arrive jamais.</description>
+      <category>Critique JV</category>
+      <pubDate>Tue, 08 Nov 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/supermariogalaxy</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Alundra</title>
+      <link>https://nicolasmoisson.fr/textes/alundra</link>
+      <description>Alundra est Zelda si Zelda grandissait et se concentrait un peu plus sur les Déesses que sur la princesse.</description>
+      <category>Critique JV</category>
+      <pubDate>Sun, 08 May 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/alundra</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>140</title>
+      <link>https://nicolasmoisson.fr/textes/140</link>
+      <description>140 est le dessin d’architecture d’une maison que nous avons déjà visitée à maintes reprises auparavant.</description>
+      <category>Critique JV</category>
+      <pubDate>Tue, 05 Jan 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/140</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Pid</title>
+      <link>https://nicolasmoisson.fr/textes/pid</link>
+      <description>Pid est un Petit Prince à l’état de brouillon, et il ne faut pas qu’il en rougisse.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 20 Nov 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/pid</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Mole Mania</title>
+      <link>https://nicolasmoisson.fr/textes/molemania</link>
+      <description>Mole Mania remue la terre et les méninges, s’inscrivant dans une tradition de jeux presque perdue.</description>
+      <category>Critique JV</category>
+      <pubDate>Sun, 08 Nov 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/molemania</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Tail Concerto</title>
+      <link>https://nicolasmoisson.fr/textes/tailconcerto</link>
+      <description>Tail Concerto ne passera vraisemblablement pas le test du temps, alors profitons-en maintenant.</description>
+      <category>Critique JV</category>
+      <pubDate>Thu, 05 Nov 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/tailconcerto</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Brothers: A Tale of Two Sons</title>
+      <link>https://nicolasmoisson.fr/textes/brothers</link>
+      <description>Brothers : A Tale of Two Sons est une relation symbiotique entre le joueur et la manette, le jeu vidéo et le cinéma, le spectateur et l’acteur, et la frontière est fine.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 09 Oct 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/brothers</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Year Walk</title>
+      <link>https://nicolasmoisson.fr/textes/yearwalk</link>
+      <description>Year Walk est un passeur de mythes, une porte vers ce qui a été oublié et qui n’aurait pas dû l’être, une renaissance du conte dans l’ère digitale.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 12 Jun 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/yearwalk</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Phantasy Star</title>
+      <link>https://nicolasmoisson.fr/textes/phantasystar</link>
+      <description>Phantasy Star est une étoile inaccessible désormais, mais son éclat nous parvient toujours.</description>
+      <category>Critique JV</category>
+      <pubDate>Sat, 06 Jun 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/phantasystar</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Mussel</title>
+      <link>https://nicolasmoisson.fr/textes/mussel</link>
+      <description>Mussel est un de ces bonbons acidulés qui pétillent sous la langue et vous font faire une grimace, mais la sensation est exquise.</description>
+      <category>Critique JV</category>
+      <pubDate>Mon, 01 Jun 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/mussel</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Alan Wake</title>
+      <link>https://nicolasmoisson.fr/textes/alanwake</link>
+      <description>Alan Wake a beaucoup de cartes en main, hélas quand vient son tour, il tire le pouilleux.</description>
+      <category>Critique JV</category>
+      <pubDate>Sun, 31 May 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/alanwake</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Papo Y Yo</title>
+      <link>https://nicolasmoisson.fr/textes/papoyyo</link>
+      <description>Papo Y Yo est un je, mais ce n’est pas le mien, et ce ne le sera jamais.</description>
+      <category>Critique JV</category>
+      <pubDate>Sun, 10 May 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/papoyyo</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Dust: An Elysian Tail</title>
+      <link>https://nicolasmoisson.fr/textes/dust</link>
+      <description>Dust: An Elysian Tail est un monstre de Frankenstein au grand cœur.</description>
+      <category>Critique JV</category>
+      <pubDate>Sat, 02 May 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/dust</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Darksiders</title>
+      <link>https://nicolasmoisson.fr/textes/darksiders</link>
+      <description>Darksiders est l’idée qu’un garçon de 13 ans se fait de la masculinité.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 24 Apr 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/darksiders</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Le Septième Fils</title>
+      <link>https://nicolasmoisson.fr/textes/septiemefils</link>
+      <description>Le Septième Fils est une énième daube.</description>
+      <category>Critique cinéma</category>
+      <pubDate>Thu, 23 Apr 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/septiemefils</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Closure</title>
+      <link>https://nicolasmoisson.fr/textes/closure</link>
+      <description>Le vrai potentiel de Closure restera pour toujours dans l’obscurité à laquelle il sera invariablement attaché.</description>
+      <category>Critique JV</category>
+      <pubDate>Fri, 17 Apr 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/closure</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>The Cat Lady</title>
+      <link>https://nicolasmoisson.fr/textes/thecatlady</link>
+      <description>The Cat Lady commence par un suicide.</description>
+      <category>Critique JV</category>
+      <pubDate>Wed, 18 Mar 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/thecatlady</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Ico</title>
+      <link>https://nicolasmoisson.fr/textes/ico</link>
+      <description>ICO, c’est l’histoire de deux enfants qui se rencontrent et se tiennent la main, contre toutes les injustices du monde.</description>
+      <category>Critique JV</category>
+      <pubDate>Thu, 12 Feb 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/ico</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Probability 0</title>
+      <link>https://nicolasmoisson.fr/textes/probability0</link>
+      <description>Probability 0 est un sentiment d’oppression funèbre, un étouffement à peine contenu.</description>
+      <category>Critique JV</category>
+      <pubDate>Mon, 24 Feb 2014 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/probability0</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+<!--
+    <item>
+      <title></title>
+      <link></link>
+      <description></description>
+      <category></category>
+      <pubDate>Sat, 03 Dec 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true"></guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+-->
+
+  </channel>
+</rss>

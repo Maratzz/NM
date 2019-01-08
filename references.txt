@@ -1,0 +1,29 @@
+﻿Pour les vidéos embed youtube:
+  width: 853
+  height: 480
+
+suivre cette structure:
+
+  <div class="blog-video-wrapper">
+    <iframe src="https://www.youtube-nocookie.com/embed/bqi_ypY9Vhg?rel=0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  </div>
+
+variables $ sass globales:
+
+  $font-p: 1.5em 'Playfair Display'; (texte de paragraphe)
+  $font-h: 3em 'Indira K'; (titre de base, texte et article)
+  $font-legende: 1em 'Indira K'; (légende des images inside texte)
+  $font-big-h: 5em 'Indira K'; (gros titre sur l'image header des textes)
+  $font-big-p: 2.5em 'Indira K'; (sous-titre sur l'image header des textes)
+
+----------------
+
+pour les textes:
+  image header: .img-header
+    h2: $font-big-h
+    p: $font-big-p
+
+  texte
+  .article
+  date et catégorie: h3
+
