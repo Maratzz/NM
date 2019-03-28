@@ -39,7 +39,7 @@
       </div>
 
       <article class="article" id="article">
-        <h3>Publié le 1er octobre 2018, écrit le 21 février 2015 - Jeux vidéo</h3>
+        <h3>Publié le 29 mars 2019, écrit le 21 février 2015 - Jeux vidéo</h3>
 
         <audio id="audio" ontimeupdate="udpateProgress()" onended="resetAudio()" preload="none">
           <source src="../music/acnl.ogg" type="audio/ogg">

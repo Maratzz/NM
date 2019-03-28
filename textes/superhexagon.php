@@ -39,7 +39,7 @@
       </div>
 
       <article class="article" id="article">
-        <h3>Publié le 1er octobre, écrit le 17 mai 2013 - Jeux vidéo</h3>
+        <h3>Publié le 29 mars 2019, écrit le 17 mai 2013 - Jeux vidéo</h3>
 
         <audio id="audio" ontimeupdate="udpateProgress()" onended="resetAudio()" preload="none">
           <source src="../music/superhexagon.ogg" type="audio/ogg">
