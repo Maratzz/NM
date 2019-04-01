@@ -15,8 +15,28 @@
       <height>80</height>
     </image>
     <pubDate>Thu, 20 Sep 2018 12:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 22:00:00 GMT</lastBuildDate>
     <atom:link href="https://nicolasmoisson.fr/rss_ecrits.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>BIT.TRIP BEAT</title>
+      <link>https://nicolasmoisson.fr/textes/bittripbeat</link>
+      <description>BIT.TRIP BEAT est un cocktail pour les sens qu’il faut boire cul-sec, une bulle d’émotions qu’il faut éclater d’un coup.</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Mon, 01 Apr 2019 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/bittripbeat</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
+
+    <item>
+      <title>Anodyne</title>
+      <link>https://nicolasmoisson.fr/textes/anodyne</link>
+      <description>Anodyne est fait de la même matière que celle des rêves.</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Mon, 01 Apr 2019 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/anodyne</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
 
     <item>
       <title>Super Hexagon</title>

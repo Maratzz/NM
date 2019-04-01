@@ -10,13 +10,13 @@
     <meta name="twitter:title" content="##### | Nicolas Moisson">
     <meta name="twitter:description" content="#####">
     <meta name="twitter:image" content="https://nicolasmoisson.fr/img/img-grid/">
-    <meta name="twitter:image:alt" content="#####">
+    <meta name="twitter:image:alt" content="Capture d'écran du jeu">
     <meta property="og:type" content="website">
     <meta property="og:title" content="##### | Nicolas Moisson">
     <meta property="og:description" content="#####">
     <meta property="og:url" content="https://nicolasmoisson.fr/textes/#####">
     <meta property="og:image" content="https://nicolasmoisson.fr/img/img-grid/">
-    <meta property="og:image:alt" content="#####">
+    <meta property="og:image:alt" content="Capture d'écran du jeu">
     <meta property="og:image:width" content="250">
     <meta property="og:image:height" content="250">
     <link rel="apple-touch-icon" href="icon.png">
@@ -31,7 +31,7 @@
         <picture>
           <source media="(max-width: 800px)" srcset="../img/img-header/mobile/#####">
           <source media="(min-width: 801px)" srcset="../img/img-header/#####">
-          <img src="/img/img-header/#####" class="bg-img-header" alt="#####"/>
+          <img src="/img/img-header/#####" class="bg-img-header" alt="Capture d'écran du jeu"/>
         </picture>
 
         <h2>#####</h2>
