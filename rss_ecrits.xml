@@ -15,8 +15,18 @@
       <height>80</height>
     </image>
     <pubDate>Thu, 20 Sep 2018 12:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Apr 2019 22:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 06:00:00 GMT</lastBuildDate>
     <atom:link href="https://nicolasmoisson.fr/rss_ecrits.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Mirror's Edge</title>
+      <link>https://nicolasmoisson.fr/textes/mirrorsedge</link>
+      <description>It's all Smokes and Mirrors.</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Tue, 02 Apr 2019 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/mirrorsedge</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
 
     <item>
       <title>BIT.TRIP BEAT</title>

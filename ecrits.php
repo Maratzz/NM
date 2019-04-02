@@ -44,6 +44,13 @@
     <main class="text-container">
 
       <div class="text-item mix jv">
+        <img src="img/img-grid/mirrors_edge.jpg" alt="Lire la critique de Mirror's Edge"/>
+        <div class="text-layer">
+          <a href="/textes/mirrorsedge">Mirror's Edge</a>
+        </div>
+      </div>
+
+      <div class="text-item mix jv">
         <img src="img/img-grid/bit_trip_beat.jpg" alt="Lire la critique de BIT.TRIP BEAT"/>
         <div class="text-layer">
           <a href="/textes/bittripbeat">BIT.TRIP BEAT</a>
