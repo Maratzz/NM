@@ -29,7 +29,7 @@
     <main>
       <div class="img-header">
         <picture>
-          <source media="(max-width: 800px)" srcset="../img/img-header/mobile/#####">
+          <source media="(max-width: 800px)" srcset="../img/img-header/mobile/superhexagon_header_800.jpg">
           <source media="(min-width: 801px)" srcset="../img/img-header/superhexagon_header.jpg">
           <img src="/img/img-header/superhexagon_header.jpg" class="bg-img-header" alt="Capture d'écran du jeu"/>
         </picture>

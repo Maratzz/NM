@@ -15,8 +15,18 @@
       <height>80</height>
     </image>
     <pubDate>Thu, 20 Sep 2018 12:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://nicolasmoisson.fr/rss_ecrits.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>BIT.TRIP CORE</title>
+      <link>https://nicolasmoisson.fr/textes/bittripcore</link>
+      <description>CORE est une prison qui libère le rythme interne.</description>
+      <category>Jeux vidéo</category>
+      <pubDate>Fri, 05 Apr 2019 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://nicolasmoisson.fr/textes/bittripcore</guid>
+      <source url="https://nicolasmoisson.fr/rss_ecrits.xml">Flux RSS de Nicolas Moisson</source>
+    </item>
 
     <item>
       <title>Mirror's Edge</title>
